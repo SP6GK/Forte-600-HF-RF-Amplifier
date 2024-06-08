@@ -7,6 +7,6 @@ I recommend using a single 17 Ohm coaxial cable (HF141-17-FEP by Qaxial) for win
 ![Output power](compare3_20m.png)
 ![Output power across bands](compare3_GP_across.png)
 
-For more details, you can read my paper or full master thesis, which will be published on my webpage in the coming months: [https://www.sp6gk.com/]([https://www.sp6gk.com/](https://www.sp6gk.com/Forte_600W_Amplifier.html).
+For more details, you can read my paper or full master thesis, which will be published on my webpage in the coming months: [https://www.sp6gk.com/](https://www.sp6gk.com/).
 
 This project was inspired by Razvan Fatu's 600 W amplifier: [A 600W Broadband HF Amplifier Using Affordable LDMOS Devices](https://qrpblog.com/2019/10/a-600w-broadband-hf-amplifier-using-affordable-ldmos-devices/). The goal of this work was to perform measurements of return loss of the input and output matching network, characterize the linearity, power added efficiency (PAE), and most importantly, the impact of "improvised" TLTs over a "textbook" TLT.
